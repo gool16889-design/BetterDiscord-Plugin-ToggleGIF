@@ -1,10 +1,14 @@
 # 👁️ ToggleGifs (BetterDiscord Plugin)
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsboWSMKfDrtO2VlqUGZvzrnb16aQm8rMhg&s" alt="BetterDiscord">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsboWSMKfDrtO2VlqUGZvzrnb16aQm8rMhg&s" width="180" alt="BetterDiscord ToggleGifs">
 </p>
 
-[English](#english) | [Русский](#русский)
+---
+
+<p align="center">
+  <a href="#english">English Description</a> | <a href="#русский">Русское описание</a>
+</p>
 
 ---
 
@@ -42,15 +46,15 @@ A privacy-focused BetterDiscord plugin that automatically blurs all animated GIF
 
 ## 🛠️ Installation / Установка
 
-1. Download `ToggleGifs.plugin.js` from this repository.
+### English
+1. Download `ToggleGifs.plugin.js` from the [Latest Release]([).](https://github.com/gool16889-design/BetterDiscord-Plugin-ToggleGIF/releases/tag/0.1)
 2. Open Discord and go to **User Settings** -> **BetterDiscord** -> **Plugins**.
 3. Click **Open Plugins Folder** at the top.
 4. Move the downloaded `.js` file into that folder.
 5. Turn on the plugin toggle in Discord.
 
----
-
-1. Скачайте файл `ToggleGifs.plugin.js` из этого репозитория.
+### Русский
+1. Скачайте файл `ToggleGifs.plugin.js` из раздела [Последний релиз]([https://github.com](https://github.com/gool16889-design/BetterDiscord-Plugin-ToggleGIF/releases/tag/0.1)).
 2. Откройте Discord и перейдите в **Настройки пользователя** -> **BetterDiscord** -> **Плагины**.
 3. Нажмите кнопку **Открыть папку плагинов** вверху экрана.
 4. Перенесите скачанный файл `.js` в открывшуюся папку.
