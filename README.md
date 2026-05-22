@@ -47,7 +47,7 @@ A privacy-focused BetterDiscord plugin that automatically blurs all animated GIF
 ## 🛠️ Installation / Установка
 
 ### English
-1. Download `ToggleGifs.plugin.js` from the [Latest Release]([).](https://github.com/gool16889-design/BetterDiscord-Plugin-ToggleGIF/releases/tag/0.1)
+1. Download `ToggleGifs.plugin.js` from the [Lasted Realese](https://github.com/gool16889-design/BetterDiscord-Plugin-ToggleGIF/releases/tag/0.1)
 2. Open Discord and go to **User Settings** -> **BetterDiscord** -> **Plugins**.
 3. Click **Open Plugins Folder** at the top.
 4. Move the downloaded `.js` file into that folder.
