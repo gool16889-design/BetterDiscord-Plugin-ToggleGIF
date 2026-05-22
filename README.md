@@ -1,7 +1,7 @@
 # 👁️ ToggleGifs (BetterDiscord Plugin)
 
 <p align="center">
-  <img src="https://shields.io" alt="BetterDiscord">
+  <img src="[https://shields.io](https://betterdiscord.app/resources/branding/logo_large.svg)" alt="BetterDiscord">
   <img src="https://shields.io" alt="Version">
   <img src="https://shields.io" alt="License">
 </p>
