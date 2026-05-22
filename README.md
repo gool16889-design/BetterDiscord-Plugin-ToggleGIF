@@ -1,5 +1,11 @@
 # 👁️ ToggleGifs (BetterDiscord Plugin)
 
+<p align="center">
+  <img src="https://shields.io" alt="BetterDiscord">
+  <img src="https://shields.io" alt="Version">
+  <img src="https://shields.io" alt="License">
+</p>
+
 [English](#english) | [Русский](#русский)
 
 ---
@@ -7,6 +13,9 @@
 ## English
 
 A privacy-focused BetterDiscord plugin that automatically blurs all animated GIF images and MP4 embeds in your chat. Perfect for keeping your screen safe from unexpected guests or family members walking into your room!
+
+> [!NOTE]
+> **Maximum Screen Privacy:** Instantly hide or reveal content before anyone catches a glimpse of your monitor.
 
 ### ✨ Features
 * **Auto-Blur by Default**: Every GIF is securely blurred right as it appears in the chat.
@@ -20,6 +29,9 @@ A privacy-focused BetterDiscord plugin that automatically blurs all animated GIF
 ## Русский
 
 Плагин для BetterDiscord, созданный для защиты вашей конфиденциальности. Он автоматически размывает любые GIF-изображения и встроенные MP4-видео в чатах. Идеальное решение, чтобы обезопасить свой экран от внезапно зашедших в комнату родителей или гостей!
+
+> [!NOTE]
+> **Полная конфиденциальность экрана:** Моментально скрывайте или открывайте контент до того, как кто-то успеет заглянуть в ваш монитор.
 
 ### ✨ Возможности
 * **Размытие по умолчанию**: Каждая гифка надежно скрывается за блёром сразу при появлении в чате.
