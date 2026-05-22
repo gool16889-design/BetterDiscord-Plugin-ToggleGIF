@@ -2,8 +2,6 @@
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRsboWSMKfDrtO2VlqUGZvzrnb16aQm8rMhg&s" alt="BetterDiscord">
-  <img src="https://www.svgrepo.com/show/486905/version-history.svg" alt="Version">
-  <img src="https://shields.io" alt="License">
 </p>
 
 [English](#english) | [Русский](#русский)
